@@ -1,0 +1,1 @@
+Entidades = new Mongo.Collection("entidade");
